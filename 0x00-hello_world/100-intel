@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
- *main- is themain function
+ *main- is the main function
  *Return: always returns 0
-int main()
+int main(void)
 {
-printf();
+printf("");
 return (0);
 }
